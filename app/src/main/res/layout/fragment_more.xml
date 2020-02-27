@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MoreFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <Switch
+        android:id="@+id/switch1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="5dp"
+        android:layout_marginTop="20dp"
+        android:text="@string/findpillbox"
+        android:textColor="#0A171F"
+        android:textOff="@string/turn_off"
+        android:textOn="@string/buzz_pill_box"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:theme="@style/Theme.MyTheme"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="5dp"
+        android:layout_marginTop="50dp"
+        android:text="@string/graph"
+
+        android:textSize="18sp"
+        android:textStyle="bold" />
+    <com.jjoe64.graphview.GraphView
+        android:layout_width = "match_parent"
+        android:layout_height = "500dip"
+        android:id = "@+id/graph"
+        android:layout_marginTop="80dp"
+        />
+
+
+</FrameLayout>

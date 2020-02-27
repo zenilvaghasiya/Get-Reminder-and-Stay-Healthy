@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "546730738383",
+    "firebase_url": "https://get-reminder-and-stay-healthy.firebaseio.com",
+    "project_id": "get-reminder-and-stay-healthy",
+    "storage_bucket": "get-reminder-and-stay-healthy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:546730738383:android:10ed04dd8b40698207adba",
+        "android_client_info": {
+          "package_name": "com.universalgamestudio.getreminderandstayhealthy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "546730738383-iqku4sgpk636miebb1ds127m1j0ktsf4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA12uZKkmEZ_H4kz08lIEj9gklrsMNbHtI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "546730738383-iqku4sgpk636miebb1ds127m1j0ktsf4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

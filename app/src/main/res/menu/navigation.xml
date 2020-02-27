@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/alarm"
+        android:icon="@drawable/alarmclock"
+        android:title="@string/alarm" />
+
+    <item
+        android:id="@+id/trace"
+        android:icon="@drawable/linechart"
+        android:title="@string/track" />
+
+    <item
+        android:id="@+id/more"
+        android:icon="@drawable/more"
+        android:title="@string/more" />
+
+
+
+</menu>
